@@ -8,8 +8,8 @@
 
 ### 💼 About Me
 
-- 🎓 Engineer in Computer Science
-- 🎓 bachelor in big data and data analysis
+- 🎓 Engineer in Computer Science (Bac +6)
+- 🎓 Bachelor in big data and data analysis (Bac +3)
 - 🌐 3+ years of experience in web and mobile application development
 - 🚀 Passionate about building scalable platforms and optimized UIs
 - 🤝 Believer in teamwork, clean code, and continuous learning
@@ -64,5 +64,5 @@
 ### 📫 Contact
 
 - Email: ziedbachoual@outlook.fr  
-- LinkedIn: [linkedin.com/in/ziedbachoual](https://www.linkedin.com/in/ziedbachoual/)  
+- LinkedIn: [linkedin.com/in/ziedbachoual](https://www.linkedin.com/in/zied-bachoual/)
 - Phone: +216 29 205 273
