@@ -8,8 +8,9 @@
 
 ### 💼 About Me
 
-- 🎓 Engineer in Computer Science (Big Data & Data Analysis)
-- 🌐 2+ years of experience in web and mobile application development
+- 🎓 Engineer in Computer Science
+- 🎓 bachelor in big data and data analysis
+- 🌐 3+ years of experience in web and mobile application development
 - 🚀 Passionate about building scalable platforms and optimized UIs
 - 🤝 Believer in teamwork, clean code, and continuous learning
 
@@ -55,8 +56,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziedbachoual&show_icons=true&theme=tokyonight" alt="Zied's GitHub Stats" />
-  <br />
   <img src="https://streak-stats.demolab.com/?user=ziedbachoual&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
